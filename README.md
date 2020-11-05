@@ -2,7 +2,7 @@
 
 <p>My name is <b>Akar</b> and I am a <b>Web Developer</b> specializing in using cutting-edge technologies working at <b>Potan</b> at the moment.</p>
 
-Web Developer at **[<img src="http://potan.co/assets/Potan_Green.png" height="32" />](https://potan.co/)** 
+Web Developer at **[<img src="http://potan.co/assets/Potan_Green.png" height="32" />](https://potan.io/)** 
 
 [![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/GinWithLemon?style=social)](https://twitter.com/GinWithLemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
