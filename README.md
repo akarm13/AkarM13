@@ -7,7 +7,9 @@ Web Developer at **[<img src="http://potan.co/assets/Potan_Green.png" height="32
 [![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/GinWithLemon?style=social)](https://twitter.com/GinWithLemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
   
-[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools :computer:
 
