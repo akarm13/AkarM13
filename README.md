@@ -4,7 +4,7 @@
 
 Web Developer at **[<img src="http://potan.co/assets/Potan_Green.png" height="32" />](https://potan.io/)** 
 
-[![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/GinWithLemon?style=social)](https://twitter.com/GinWithLemon)
+[![Twitter: 0xyGin](https://img.shields.io/twitter/follow/0xyGin?style=social)](https://twitter.com/0xyGin)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
   
   
