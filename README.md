@@ -1,4 +1,6 @@
-<p>I'm <b>Akar</b> and I am a <b>Software Developer</b> specializing in using cutting-edge technologies working at <b>Potan</b> at the moment.</p>
+
+### About myself
+I am Akar, UI Designer and Front-end developer who tries his best to keep up with cutting-edge technologies as long as there's caffiene involved. I starting coding when I was 13 and couldn't stop ever since.
 
 ### Languages and Tools
 
@@ -12,11 +14,14 @@
 
 ### Socials
 
+Feel free to reach out
+
 [![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/0xyGin?style=social)](https://twitter.com/ginwithlemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
 
 
 ### Stats
+
 [![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=prs,issues,contribs&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
