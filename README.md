@@ -1,8 +1,6 @@
 <p>I'm <b>Akar</b> and I am a <b>Software Developer</b> specializing in using cutting-edge technologies working at <b>Potan</b> at the moment.</p>
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages and Tools :computer:
+### Languages and Tools
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -16,3 +14,7 @@
 
 [![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/0xyGin?style=social)](https://twitter.com/ginwithlemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
+
+
+### Stats
+[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
