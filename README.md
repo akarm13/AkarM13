@@ -1,6 +1,6 @@
 
 ### About myself
-I am Akar, UI Designer and Front-end developer who tries his best to keep up with cutting-edge technologies as long as there's caffiene involved. I starting coding when I was 13 and couldn't stop ever since.
+I am Akar, UI Designer and Software Developer who tries his best to keep up with cutting-edge technologies as long as there's caffiene involved. I starting coding when I was 13 and couldn't stop ever since.
 
 ### Languages and Tools
 
