@@ -17,4 +17,4 @@
 
 
 ### Stats
-[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=stars,prs,issues,contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
