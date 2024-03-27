@@ -16,5 +16,5 @@ I am Akar, UI Designer and Software Developer who tries his best to keep up with
 
 Feel free to reach out
 
-[![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/0xyGin?style=social)](https://twitter.com/ginwithlemon)
+[![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/ginwithlemon?style=social)](https://twitter.com/ginwithlemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
