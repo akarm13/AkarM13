@@ -18,10 +18,3 @@ Feel free to reach out
 
 [![Twitter: GinWithLemon](https://img.shields.io/twitter/follow/0xyGin?style=social)](https://twitter.com/ginwithlemon)
 [![GitHub Akar](https://img.shields.io/github/followers/akarm13?label=follow&style=social)](https://github.com/akarm13)
-
-
-### Stats
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=akarm13&hide=prs,issues,contribs&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
